@@ -1,0 +1,23 @@
+.page-heading { 
+  width: 100%;
+  text-align: center;
+}
+
+.counter-container { 
+  width: 100%;
+  text-align: center;
+}
+
+.counter-container-button { 
+  height: 50px;
+  width: 50px;
+  margin: 15px;
+  border-radius: 100%;
+  background-color: #7f9cb3;
+}
+
+.counter-container-input {
+  margin: 15px;
+  text-align: center;
+  display: inline;
+}
