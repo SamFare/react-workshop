@@ -1,0 +1,23 @@
+.pageHeading { 
+  width: 100%;
+  text-align: center;
+}
+
+.counterContainer { 
+  width: 100%;
+  text-align: center;
+}
+
+.counterContainerButton { 
+  height: 50px;
+  width: 50px;
+  margin: 15px;
+  border-radius: 100%;
+  background-color: #7f9cb3;
+}
+
+.counterContainerInput {
+  margin: 15px;
+  height: 50px;
+  text-align: center;
+}
